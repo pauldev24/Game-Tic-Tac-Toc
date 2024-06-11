@@ -128,4 +128,5 @@ body {
   place-items: center;
   cursor: pointer;
   font-size: 48px;
+  user-select: none;
 }
